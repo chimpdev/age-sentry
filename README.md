@@ -26,16 +26,16 @@ git clone https://github.com/chimpdev/age-sentry.git
 cd age-sentry
 ```
 
-3. Install dependencies
+3. Install dependencies (you can use `npm` or `pnpm`)
 ```bash
-pnpm i # or npm i
+pnpm i
 ```
 
 5. Create a new application on [Discord Developer Portal](https://discord.com/developers/applications) and copy the bot token. Also don't forget to enable `MESSAGE CONTENT INTENT` in the bot settings.
 
 6. Edit `.env` file (see below)
 
-7. Start the bot
+7. Start the bot (you can use `npm` or `pnpm`)
 ```bash
 pnpm start
 ```
