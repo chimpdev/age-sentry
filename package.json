@@ -1,0 +1,20 @@
+{
+  "name": "age-sentry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
