@@ -6,7 +6,7 @@ Go to [this link](https://discord.com/api/oauth2/authorize?client_id=11290727413
 
 ## 🖥️ Hosting
 
-We are hosting Age Sentry bot on our own servers. Bot will be online 24/7. If you want to host the bot on your own server, you can follow the steps below.
+~~We are hosting Age Sentry bot on our own servers. Bot will be online 24/7~~ If you want to host the bot on your own server, you can follow the steps below.
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ pnpm i
 
 6. Edit `.env` file (see below)
 
-7. Start the bot (you can use `npm` or `pnpm`)
+7~~. Start the bot (you can use `npm` or `pnpm`)
 ```bash
 pnpm start
 ```
