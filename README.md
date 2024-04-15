@@ -35,7 +35,7 @@ pnpm i
 
 6. Edit `.env` file (see below)
 
-7~~. Start the bot (you can use `npm` or `pnpm`)
+7. Start the bot (you can use `npm` or `pnpm`)
 ```bash
 pnpm start
 ```
